@@ -1,9 +1,9 @@
 # Diggipplus-task
 
 
-Scrapper.py- this file scrapes the data from magicbricks website
-data.json- this is the output json file
-  I am attaching a sample of JSON just in case Github refuses to open the file
+Scrapper.py- this file scrapes the data from magicbricks website <br />
+data.json- this is the output JSON file <br />
+  I am attaching a sample of JSON just in case Github refuses to open the file <br />
   ```
   {
       "name": "3 BHK Flat for Sale in Central Park The Orchard, Sector 32 Sohna, Gurgaon",
